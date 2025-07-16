@@ -27,40 +27,24 @@
 
 <div align="center">
     <h2>🛠 Technologies & Skills</h2>
-        <table style="height: 100%; width: 100%;">
-            <a href="">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-                    alt="c" width="45" height="45" style="vertical-align:top; margin:4px;">
-            </a>
-            <a href="">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-                    alt="c" width="45" height="45" style="vertical-align:top; margin:4px;">
-            </a>
-            <a href="">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"
-                    alt="postgresql" width="45" height="45" style="vertical-align:top; margin:4px;">
-            </a>
-            <a href="https://hub.docker.com/">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
-                    alt="docker" width="45" height="45" style="vertical-align:top; margin:4px;">
-            </a>
-            <a href="">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-                    alt="javascript" width="45" height="45" style="vertical-align:top; margin:4px;">
-            </a>
-            <a href="">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-                    alt="nodejs" width="45" height="45" style="vertical-align:top; margin:4px;">
-            </a>
-            <a href="">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
-                    alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px;">
-            </a>
-            <a href="">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-                    alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px;">
-            </a>
-        </table>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+            alt="c" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+            alt="c++" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"
+            alt="mariadb" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+            alt="docker" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            alt="typescript" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            alt="nodejs" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
+            alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+            alt="vscode" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+    </div>
 </div>
 
 
