@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-## GitHub Stats
 <div align="center">
     <h2>Stats</h2>
     <table style="height: 100%; width: 100%;">
@@ -26,17 +24,49 @@
     </table>
 </div>
 
-<!--
-**mkaliszc/mkaliszc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+    <h2>🛠 Technologies & Skills</h2>
+        <table style="height: 100%; width: 100%;">
+            <a href="">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+                    alt="c" width="45" height="45" style="vertical-align:top; margin:4px;">
+            </a>
+            <a href="">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+                    alt="c" width="45" height="45" style="vertical-align:top; margin:4px;">
+            </a>
+            <a href="">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"
+                    alt="postgresql" width="45" height="45" style="vertical-align:top; margin:4px;">
+            </a>
+            <a href="https://hub.docker.com/">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
+                    alt="docker" width="45" height="45" style="vertical-align:top; margin:4px;">
+            </a>
+            <a href="">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+                    alt="javascript" width="45" height="45" style="vertical-align:top; margin:4px;">
+            </a>
+            <a href="">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+                    alt="nodejs" width="45" height="45" style="vertical-align:top; margin:4px;">
+            </a>
+            <a href="">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
+                    alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px;">
+            </a>
+            <a href="">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+                    alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px;">
+            </a>
+        </table>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+    <h2>Links</h2>
+        <table style="height: 100%; width: 100%;">
+            <a href="https://www.linkedin.com/in/milan-kaliszczak-972234302/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"    alt="linkedin logo" /></a>
+        </table>
+</div>
