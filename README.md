@@ -28,21 +28,21 @@
 <div align="center">
     <h2>🛠 Technologies & Skills</h2>
     <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+        <img src="./assets/c-original.svg"
             alt="c" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        <img src="./assets/cplusplus-original.svg"
             alt="c++" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"
+        <img src="./assets/mariadb-original.svg"
             alt="mariadb" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        <img src="./assets/docker-original.svg"
             alt="docker" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        <img src="./assets/typescript-original.svg"
             alt="typescript" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        <img src="./assets/nodejs-original-wordmark.svg"
             alt="nodejs" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
+        <img src="./assets/ubuntu-original.svg"
             alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        <img src="./assets/vscode-original.svg"
             alt="vscode" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
     </div>
 </div>
