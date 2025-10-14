@@ -45,9 +45,9 @@
         <img src="./assets/vscode-original.svg"
             alt="vscode" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
         <img src="./assets/kubernetes-original.svg"
-            alt="vscode" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+            alt="kubernetes" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
         <img src="./assets/vagrant-original.svg"
-            alt="vscode" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+            alt="vagrant" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
     </div>
 </div>
 
@@ -55,7 +55,7 @@
 <div align="center">
     <h2>Links</h2>
         <table style="height: 100%; width: 100%;">
-            <a href="https://www.linkedin.com/in/milan-kaliszczak-972234302/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"    alt="linkedin logo" /></a>
-            <a href="https://app.hackthebox.com/profile/overview" target="_blank"><img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=9FEF00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackthebox logo" /></a>
+            <a href="https://www.linkedin.com/in/milan-kaliszczak-972234302/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+            <a href="https://app.hackthebox.com/profile/overview" target="_blank"><img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=72AC00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackTheBox logo" /></a>
         </table>
 </div>
