@@ -56,6 +56,6 @@
     <h2>Links</h2>
         <table style="height: 100%; width: 100%;">
             <a href="https://www.linkedin.com/in/milan-kaliszczak-972234302/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"    alt="linkedin logo" /></a>
-            <a href="https://app.hackthebox.com/profile/Namae42" target="_blank"><img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=9FEF00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackthebox logo" /></a>
+            <a href="https://app.hackthebox.com/profile/overview" target="_blank"><img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=9FEF00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackthebox logo" /></a>
         </table>
 </div>
