@@ -44,6 +44,10 @@
             alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
         <img src="./assets/vscode-original.svg"
             alt="vscode" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+        <img src="./assets/kubernetes-original.svg"
+            alt="vscode" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+        <img src="./assets/vagrant-original.svg"
+            alt="vscode" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
     </div>
 </div>
 
