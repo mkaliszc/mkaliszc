@@ -48,7 +48,7 @@
             alt="kubernetes" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
         <img src="./assets/vagrant-original.svg"
             alt="vagrant" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-        <img src="./assets/bash-originial.vg"
+        <img src="./assets/bash-original.svg"
             alt="bash" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
     </div>
 </div>
