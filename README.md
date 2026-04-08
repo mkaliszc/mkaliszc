@@ -1,7 +1,7 @@
 ## Hello There !
 
 <div align="center">
-    <p><em>My name is Milan Kaliszczak. I'm a 42 student specializing in cybersecurity — bridging low-level systems programming and offensive security through real-world practice on HackTheBox. Currently looking for a work-study position in cybersecurity.</em></p>
+    <p><em>My name is Milan Kaliszczak. I'm a student at 42 School specializing in cybersecurity — bridging low-level systems programming and offensive security through real-world practice on HackTheBox. Currently looking for a work-study position in cybersecurity.</em></p>
 </div>
 
 <div align="center">
