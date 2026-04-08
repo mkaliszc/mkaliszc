@@ -1,6 +1,10 @@
 ## Hello There !
 
 <div align="center">
+    <p><em>My name is Milan Kaliszczak. I'm a 42 student specializing in cybersecurity — bridging low-level systems programming and offensive security through real-world practice on HackTheBox. Currently looking for a work-study position in cybersecurity.</em></p>
+</div>
+
+<div align="center">
     <h2>Stats</h2>
     <table style="height: 100%; width: 100%;">
         <tr style="height: 50%;">
